@@ -36,7 +36,7 @@ my_exchange_server is a trading backend with high-speed performance, designed fo
 
 **Operating system**
 
-Ubuntu 14.04 or Ubuntu 16.04. Not yet tested on other systems.
+Linux
 
 **Requirements**
 
@@ -74,7 +74,6 @@ matchengine
 ## API
 
 [HTTP Protocol](https://github.com/my/my_exchange_server/wiki/HTTP-Protocol) and [Websocket Protocol](https://github.com/my/my_exchange_server/wiki/WebSocket-Protocol) documents are available in Chinese. Should time permit, we will have it translated into English in the future.</br>
-[Python3 API realisation](https://github.com/testnet-exchange/python-my-api)
 
 
 ## Websocket authorization
@@ -87,9 +86,4 @@ The internal authorization endpoint is defined by the `auth_url` setting in the 
 
 Example response: `{"code": 0, "message": null, "data": {"user_id": 1}}`
 
-## Donation
-
-* BTC: 14x3GrEoMLituT6vF2wcEbqMAxCvt2724s
-* BCC: 1364ZurPv8uTgnFr1uqowJDFF15aNFemkf
-* ETH: 0xA2913166AE0689C07fCB5C423559239bB2814b6D
 
