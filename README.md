@@ -1,6 +1,6 @@
-# my_exchange_server
+# my_c_server
 
-my_exchange_server is a trading backend with high-speed performance, designed for cryptocurrency exchanges. It can support up to 10000 trades every second and real-time user/market data notification through websocket.
+my_c_server is a trading backend with high-speed performance, designed for cryptocurrency exchanges. It can support up to 10000 trades every second and real-time user/market data notification through websocket.
 
 ## Code structure
 
@@ -81,7 +81,7 @@ matchengine
 
 ## API
 
-[HTTP Protocol](https://github.com/my/my_exchange_server/wiki/HTTP-Protocol) and [Websocket Protocol](https://github.com/my/my_exchange_server/wiki/WebSocket-Protocol) documents are available in Chinese. Should time permit, we will have it translated into English in the future.</br>
+[HTTP Protocol](https://github.com/my/my_c_server/wiki/HTTP-Protocol) and [Websocket Protocol](https://github.com/my/my_c_server/wiki/WebSocket-Protocol) documents are available in Chinese. Should time permit, we will have it translated into English in the future.</br>
 
 
 ## Websocket authorization
